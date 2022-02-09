@@ -1,0 +1,10 @@
+@import url("https://use.typekit.net/ume0fnv.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: 'futura-pt';
+}
